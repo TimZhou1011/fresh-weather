@@ -1,10 +1,10 @@
 // import {SERVER_URL} from '../config'
 import Promise from './bluebird'
 
-const QQ_MAP_KEY = 'ZVXBZ-xxxxxxxxxxxxxxxxxxx-RCSVK-LQFU6'
+const QQ_MAP_KEY = 'YDWBZ-UBZHR-VRDWQ-WEYWN-5APLV-XHFF3'
 
 wx.cloud.init({
-  env: 'tianqi-xxxxx'
+  env: 'timzhou-test'
 })
 
 const db = wx.cloud.database()

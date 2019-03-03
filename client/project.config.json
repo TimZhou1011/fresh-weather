@@ -1,3 +1,9 @@
 {
-  "cloudfunctionRoot": "./cloud-functions/"
+	"cloudfunctionRoot": "cloud-functions/",
+	"setting": {
+		"newFeature": true
+	},
+	"appid": "wx9370c5db01603b3c",
+	"projectname": "fresh-weather",
+	"condition": {}
 }
